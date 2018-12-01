@@ -25,3 +25,9 @@ https://www.youtube.com/watch?v=UrfSSju_Fps
 https://www.geeksforgeeks.org/computer-network-rc4-encryption-algorithm/
 
 https://cyrussh.com/?p=150
+
+
+how to running c++ linux:
+$ sudo apt install g++
+$ g++ -o Main rc4.cc
+$ ./main 
