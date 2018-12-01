@@ -28,6 +28,9 @@ https://cyrussh.com/?p=150
 
 
 how to running c++ linux:
+
 $ sudo apt install g++
+
 $ g++ -o Main rc4.cc
+
 $ ./main 
